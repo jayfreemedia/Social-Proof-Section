@@ -1,0 +1,19 @@
+Fonts
+
+H1 - PURPLE TITLE
+H2 - RATE REVIEWS
+H3 - PROFILE NAME
+H4 - PROFILE SUBTITLE
+H5 - PROFILE PARAGRAPH
+
+
+
+Box 1 - Rating (330px, 80px)
+Box 2 - profil Box  (330px, 250px)
+15px margins/padding between boxes
+5px box border radius
+
+
+
+
+Cropped Circle profile pic
